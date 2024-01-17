@@ -1,0 +1,11 @@
+#question{
+    border: 2px solid red;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px orangered;
+    display: none;
+    margin-bottom: 50px;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+}

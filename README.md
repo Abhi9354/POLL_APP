@@ -1,1 +1,1 @@
-# POLL_APP
+# poll-app
